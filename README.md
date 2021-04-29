@@ -18,4 +18,4 @@ If in case runing on local machine follow below procedure in order to run the co
     conda install -c conda-forge spacy<br>
     python -m spacy download en_core_web_sm<br>
     
- The data folder contain text file for sample sentence that I have used.<br>
+ The data folder contain conll2003 dataset and conll.py for evaluation.<br>
